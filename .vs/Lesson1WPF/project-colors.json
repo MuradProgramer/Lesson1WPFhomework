@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c0d6b788-b0bd-4bda-b5df-29a8f596042b": {
+      "ProjectGuid": "c0d6b788-b0bd-4bda-b5df-29a8f596042b",
+      "DisplayName": "Lesson1WPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
